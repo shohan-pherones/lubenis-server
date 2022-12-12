@@ -1,0 +1,169 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "",
+      "img1": "",
+      "img2": "",
+      "desc": "",
+      "price": 100,
+      "category": "",
+      "isNew": true,
+      "isFeatured": true
+    },
+    {
+      "id": 2,
+      "name": "",
+      "img1": "",
+      "img2": "",
+      "desc": "",
+      "price": 100,
+      "category": "",
+      "isNew": true,
+      "isFeatured": true
+    },
+    {
+      "id": 3,
+      "name": "",
+      "img1": "",
+      "img2": "",
+      "desc": "",
+      "price": 100,
+      "category": "",
+      "isNew": true,
+      "isFeatured": true
+    },
+    {
+      "id": 4,
+      "name": "",
+      "img1": "",
+      "img2": "",
+      "desc": "",
+      "price": 100,
+      "category": "",
+      "isNew": true,
+      "isFeatured": true
+    },
+    {
+      "id": 5,
+      "name": "",
+      "img1": "",
+      "img2": "",
+      "desc": "",
+      "price": 100,
+      "category": "",
+      "isNew": true,
+      "isFeatured": true
+    },
+    {
+      "id": 6,
+      "name": "",
+      "img1": "",
+      "img2": "",
+      "desc": "",
+      "price": 100,
+      "category": "",
+      "isNew": true,
+      "isFeatured": true
+    },
+    {
+      "id": 7,
+      "name": "",
+      "img1": "",
+      "img2": "",
+      "desc": "",
+      "price": 100,
+      "category": "",
+      "isNew": true,
+      "isFeatured": true
+    },
+    {
+      "id": 8,
+      "name": "",
+      "img1": "",
+      "img2": "",
+      "desc": "",
+      "price": 100,
+      "category": "",
+      "isNew": true,
+      "isFeatured": true
+    },
+    {
+      "id": 9,
+      "name": "",
+      "img1": "",
+      "img2": "",
+      "desc": "",
+      "price": 100,
+      "category": "",
+      "isNew": true,
+      "isFeatured": true
+    },
+    {
+      "id": 10,
+      "name": "",
+      "img1": "",
+      "img2": "",
+      "desc": "",
+      "price": 100,
+      "category": "",
+      "isNew": true,
+      "isFeatured": true
+    },
+    {
+      "id": 11,
+      "name": "",
+      "img1": "",
+      "img2": "",
+      "desc": "",
+      "price": 100,
+      "category": "",
+      "isNew": true,
+      "isFeatured": true
+    },
+    {
+      "id": 12,
+      "name": "",
+      "img1": "",
+      "img2": "",
+      "desc": "",
+      "price": 100,
+      "category": "",
+      "isNew": true,
+      "isFeatured": true
+    },
+    {
+      "id": 13,
+      "name": "",
+      "img1": "",
+      "img2": "",
+      "desc": "",
+      "price": 100,
+      "category": "",
+      "isNew": true,
+      "isFeatured": true
+    },
+    {
+      "id": 14,
+      "name": "",
+      "img1": "",
+      "img2": "",
+      "desc": "",
+      "price": 100,
+      "category": "",
+      "isNew": true,
+      "isFeatured": true
+    },
+    {
+      "id": 15,
+      "name": "",
+      "img1": "",
+      "img2": "",
+      "desc": "",
+      "price": 100,
+      "category": "",
+      "isNew": true,
+      "isFeatured": true
+    }
+  ]
+}
